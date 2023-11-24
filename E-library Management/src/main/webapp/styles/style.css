@@ -1,0 +1,130 @@
+@charset "UTF-8";
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+nav .nav-item a:hover{
+	color: #0D6EFD !important;
+}
+
+h5{
+	color: black;
+}
+
+p{
+	color: black;
+}
+
+.d-block{
+	margin-top: -300px;
+}
+
+.card-title{
+	font-size: 30px;
+	font-weight: 900;
+	padding-top: 15px;
+}
+
+.card-body{
+	height: 130px;
+}
+
+.about{
+	padding-bottom: 20px;
+}
+
+.about-title{
+	text-align: center;
+	font-size: 40px;
+	font-weight: 700;
+	padding-left: 540px;
+	padding-right: 50px;
+}
+
+.vision-title{
+	text-align: center;
+	font-size: 40px;
+	font-weight: 700;
+	padding-left: 50px;
+	padding-right: 520px;
+}
+
+.about-para{
+	text-align: justify;
+	font-size: 18px;
+	padding-top: 20px;
+	padding-left: 540px;
+	padding-right: 50px;
+}
+
+.vision-para{
+	text-align: justify;
+	font-size: 18px;
+	padding-top: 20px;
+	padding-left: 50px;
+	padding-right: 540px;
+}
+
+.about-img{
+	width: 350px;
+	height: 350px;
+	margin-top: -390px;
+	margin-left: 120px;
+}
+
+.vision-img{
+	width: 350px;
+	height: 350px;
+	margin-top: -390px;
+	margin-left: 1000px;
+}
+
+.contact{
+	padding-bottom: 30px;
+}
+
+.contact-form{
+	margin-left: 180px;
+}
+
+.contact-img{
+	width: 500px;
+	height: 350px;
+	margin-top: -465px;
+	margin-left: 800px;
+}
+
+.text{
+	font-weight: bold;
+	font-size: 18px;
+}
+
+.para{
+	color: black;
+	font-size: 15px;
+	font-weight: 600;
+}
+
+.footer-nav a{
+	color: black;
+	font-size: 15px;
+	font-weight: 600;
+}
+
+.footer-nav a:hover{
+	color: #0D6EFD;
+}
+
+
+
+
+
+
+
+
+
+
+
+
