@@ -25,7 +25,7 @@
 	</nav>
 <sql:setDataSource var="db" driver="com.mysql.jdbc.Driver"  
      url="jdbc:mysql://localhost/library"  
-     user="root"  password="Sanjay@12"/>  
+     user="root"  password=""/>  
   
 <sql:query dataSource="${db}" var="rs">  
 select * from library.reqbook;
